@@ -13,7 +13,6 @@
  <p><strong>qualifications</strong><br/>
       Class XII –board marks 84 <br/>
       inter 94 ] <br/>
-<<<<<<< HEAD
       Percentage: [Your 9.3]</p>
   <h2>Education</h2>
       <p><strong>Amity University</strong><br/>
@@ -22,8 +21,23 @@
       CGPA: [Your CGPA]</p>
      
 
-=======
-
       <p>Percentage: [Your 9.3]</p>
+<<<<<<< HEAD
+      <p>watching we series </p
+=======
       <p>watching we series </p>
->>>>>>> hobbies
+       <h2>Skills</h2>
+      <ul>
+        <li>Programming: C, C++, JavaScript, Python (basic)</li>
+        <li>Web Development: HTML, CSS, PHP, MySQL</li>
+        <li>Tools: Git, VS Code, MS Office</li>
+        <li>Soft Skills: Teamwork, Communication, Time Management</li>
+      </ul>
+       <h2>Skills</h2>
+      <ul>
+        <li>Programming: C, C++, JavaScript, Python (basic)</li>
+        <li>Web Development: HTML, CSS, PHP, MySQL</li>
+        <li>Tools: Git, VS Code, MS Office</li>
+        <li>Soft Skills: Teamwork, Communication, Time Management</li>
+      </ul>
+>>>>>>> skills

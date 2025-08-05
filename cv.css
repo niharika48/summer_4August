@@ -18,3 +18,13 @@ h1, h2 {
 .section {
   margin-bottom: 20px;
 }
+.contact p,
+.skills ul,
+.education p,
+.projects p {
+  margin: 5px 0;
+}
+
+ul {
+  padding-left: 20px;
+}
